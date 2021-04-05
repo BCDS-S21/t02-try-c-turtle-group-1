@@ -1,0 +1,3 @@
+/home/runner/t02-try-c-turtle-group-1/.berea/build/CMakeFiles/rebuild_cache.dir
+/home/runner/t02-try-c-turtle-group-1/.berea/build/CMakeFiles/l02-loopy-graphics.dir
+/home/runner/t02-try-c-turtle-group-1/.berea/build/CMakeFiles/edit_cache.dir
