@@ -1,7 +1,7 @@
  #include <math.h> 
  /* File:   main_CTurtle.cpp
  * Original Author:  Jesse W. Walker with modifications by Jan Pearce, 2019
- * Modified by: FIXME
+ * Modified by: Diamond, Jacob, & Alina
  */
 
 #include "CTurtle.hpp";   //This brings in the CTurtle library for use
